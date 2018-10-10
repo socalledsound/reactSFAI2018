@@ -1316,6 +1316,10 @@ const SyllabusData =  {
 
 
 						{
+							linkText:"",
+							linkSrc:""
+						},
+						{
 							linkText:"toshimaru nakamaru, no input mixing board",
 							linkSrc:"https://www.youtube.com/watch?v=qTi0hom6r44"
 						},
@@ -1327,6 +1331,19 @@ const SyllabusData =  {
 						{
 							linkText:"feeback loops and interaction design",
 							linkSrc:"https://www.smashingmagazine.com/2013/02/designing-great-feedback-loops/"
+						},
+
+
+						{
+							linkText:"Cellular Automata",
+							linkSrc:"http://mathworld.wolfram.com/CellularAutomaton.html"
+						},
+						{
+							linkText:"Wolfram's controversial 'A New Kind Of Science'",
+							linkSrc:"https://en.wikipedia.org/wiki/A_New_Kind_of_Science"
+						},						{
+							linkText:"Ray Kurzweil -- singularity",
+							linkSrc:"http://www.kurzweilai.net/futurism-ray-kurzweil-claims-singularity-will-happen-by-2045"
 						},	
 						{
 							linkText:"'cellular automata' from the Nature of Code",
@@ -1345,7 +1362,7 @@ const SyllabusData =  {
 						{
 							linkText:"cubes.io -- cellular automata in three dimensions v2",
 							linkSrc:"http://cubes.io/"
-						},					
+						}					
 					],
 					tutorialz: [
 						// <li><a href="https://vimeo.com/157024760">kinect, facetracker, and ableton in p5.js with OSC</a></li>
@@ -1366,20 +1383,20 @@ const SyllabusData =  {
 						},
 
 						{
-							linkText:"",
-							linkSrc:""
+							linkText:"p5.js: basic cellular automata",
+							linkSrc:"https://editor.p5js.org/socalledsound/sketches/Hkapl3jcX"
 						},
 						{
-							linkText:"",
-							linkSrc:""
+							linkText:"p5.js: cellular automata with random rulesets",
+							linkSrc:"https://editor.p5js.org/socalledsound/sketches/ryTwK2o5m"
 						},
 						{
-							linkText:"",
-							linkSrc:""
+							linkText:"p5.js: the game of life",
+							linkSrc:"https://editor.p5js.org/socalledsound/sketches/Hy88fho5X"
 						},
 						{
-							linkText:"",
-							linkSrc:""
+							linkText:"p5.js reaction diffusion patterns",
+							linkSrc:"https://editor.p5js.org/socalledsound/sketches/B1c133j5X"
 						},	
 					]
 				},														
