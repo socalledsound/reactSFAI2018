@@ -1927,8 +1927,8 @@ const SyllabusData =  {
 							linkSrc:"https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/overview"
 						},
 						{
-							linkText:"",
-							linkSrc:""
+							linkText:"p5.play",
+							linkSrc:"https://molleindustria.github.io/p5.play/"
 						},
 						{
 							linkText:"",
@@ -1944,7 +1944,7 @@ const SyllabusData =  {
 					date: "10/24",
 					title: "Player Player",
 					description:'',
-					assignment: "",
+					assignment: "write a 'character' (using JSON or the class syntax we went over in class) javascript.  Or, just write some kind of code poem.  Post to tumblr"
 					linkz: [
 						{
 							linkText:"Alexander Galloway, 'The Interface Effect'",
@@ -2003,16 +2003,16 @@ const SyllabusData =  {
 					],
 					tutorialz: [
 						{
-							linkText:"",
-							linkSrc:""
+							linkText:"p5.play",
+							linkSrc:"https://molleindustria.github.io/p5.play/"
 						},
 						{
-							linkText:"",
-							linkSrc:""
+							linkText:"javascript object notation (json)",
+							linkSrc:"https://www.youtube.com/watch?v=_NFkzw6oFtQ"
 						},
 						{
-							linkText:"",
-							linkSrc:""
+							linkText:"object oriented programming using classes in javascript -- series by daniel shiffman",
+							linkSrc:"https://www.youtube.com/watch?v=xG2Vbnv0wvg&t=29s"
 						},
 						{
 							linkText:"",
