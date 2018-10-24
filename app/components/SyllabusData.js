@@ -2015,12 +2015,12 @@ const SyllabusData =  {
 							linkSrc:"https://www.youtube.com/watch?v=xG2Vbnv0wvg&t=29s"
 						},
 						{
-							linkText:"",
-							linkSrc:""
+							linkText:"OOP - game of life",
+							linkSrc:"https://editor.p5js.org/socalledsound/sketches/BkKFUQ0sQ"
 						},
 						{
-							linkText:"",
-							linkSrc:""
+							linkText:"OOP -- helix"",
+							linkSrc:"https://editor.p5js.org/socalledsound/sketches/S1RF2m0om"
 						},
 						{
 							linkText:"",
