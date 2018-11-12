@@ -1944,7 +1944,7 @@ const SyllabusData =  {
 					date: "10/24",
 					title: "Player Player",
 					description:'',
-					assignment: "write a 'character' (using JSON or the class syntax we went over in class) javascript.  Or, just write some kind of code poem.  Post to tumblr"
+					assignment: "write a 'character' (using JSON or the class syntax we went over in class) javascript.  Or, just write some kind of code poem.  Post to tumblr",
 					linkz: [
 						{
 							linkText:"Alexander Galloway, 'The Interface Effect'",
@@ -2019,7 +2019,7 @@ const SyllabusData =  {
 							linkSrc:"https://editor.p5js.org/socalledsound/sketches/BkKFUQ0sQ"
 						},
 						{
-							linkText:"OOP -- helix"",
+							linkText:"OOP -- helix",
 							linkSrc:"https://editor.p5js.org/socalledsound/sketches/S1RF2m0om"
 						},
 						{
@@ -2359,8 +2359,68 @@ const SyllabusData =  {
 					linkz: [
 						{
 							linkText:"Sol Lewitt, Sentences on Conceptual Art",
+							linkSrc:"http://www.altx.com/vizarts/conceptual.html"
+						},
+						{
+							linkText:"Sol Lewitt, Instructions for Making Paintings",
+							linkSrc:"http://www.improvisedlife.com/2015/08/10/learning-stealing-sol-lewitt/"
+						},
+						{
+							linkText:"Yoko Ono Instruction Paintings",
+							linkSrc:"https://www.moma.org/explore/multimedia/audios/406/7252"
+						},
+						{
+							linkText:"yoko ono bicycle piece for orchestra ",
+							linkSrc:"images/scores/yokoBicycle.jpg"
+						},
+						{
+							linkText:"Pauline Oliveros: Deep Listening Handbook",
+							linkSrc:"http://deeplistening.org/site/content/deep-listening-composers-sound-practice"
+						},
+						{
+							linkText:"trevor wishart, sounds fun",
+							linkSrc:""
+						},	
+						{
+							linkText:"david toop/unknown devices",
+							linkSrc:"https://www.youtube.com/watch?v=-nYdsNqHo1g"
+						},
+						{
+							linkText:"earl Brown December 1952",
+							linkSrc:"https://www.youtube.com/watch?v=WlGkaP4u2cw"
+						},
+						{
+							linkText:"Cornelius Cardew, treatise",
+							linkSrc:"https://blogthehum.wordpress.com/2016/02/29/cornelius-cardews-treatise-1963-67/"
+						},
+						{
+							linkText:"notations 21",
+							linkSrc:"https://www.brainpickings.org/2011/05/06/notations-21/"
+						},
+						{
+							linkText:"playing pictures: the art of graphical notation",
+							linkSrc:"https://www.theguardian.com/music/2013/oct/07/graphic-music-scores-playing-pictures-tom-phillips"
+						},	
+						{
+							linkText:"Christian Marclay - Shuffle",
+							linkSrc:"https://vimeo.com/30929081"
+						},
+						{
+							linkText:"Brian eno, Oblique Strategies",
+							linkSrc:"http://stoney.sb.org/eno/oblique.html"
+						},
+						{
+							linkText:"",
 							linkSrc:""
 						},
+						{
+							linkText:"",
+							linkSrc:""
+						},
+						{
+							linkText:"",
+							linkSrc:""
+						},	
 						{
 							linkText:"",
 							linkSrc:""
@@ -2380,7 +2440,27 @@ const SyllabusData =  {
 						{
 							linkText:"",
 							linkSrc:""
-						},					
+						},	
+						{
+							linkText:"",
+							linkSrc:""
+						},
+						{
+							linkText:"",
+							linkSrc:""
+						},
+						{
+							linkText:"",
+							linkSrc:""
+						},
+						{
+							linkText:"",
+							linkSrc:""
+						},
+						{
+							linkText:"",
+							linkSrc:""
+						}				
 					],
 					tutorialz: [
 						{
